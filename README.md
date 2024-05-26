@@ -9,7 +9,7 @@ Para empezar rápidamente con el desarrollo en Java en Visual Studio Code, se re
 Para otros sistemas operativos, necesitarás instalar manualmente un JDK, VS Code y las extensiones de Java.
 
 #### Si ya tienes VS Code instalado y quieres añadir soporte para Java
-Se recomienda usar el **Extension Pack for Java**, que es una colección de extensiones sugeridas por Microsoft. Incluye:
+Instala las siguiente extensiones:
 - Language Support for Java™ by Red Hat
 - Debugger for Java
 - Test Runner for Java
