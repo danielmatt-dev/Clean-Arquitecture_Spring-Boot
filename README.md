@@ -24,13 +24,11 @@ Puedes [instalar el Extension Pack for Java](https://marketplace.visualstudio.co
 
 Para ver un ejemplo práctico de un proyecto Java con arquitectura limpia usando Spring Boot, sigue estos pasos para clonar el repositorio y la rama correspondiente:
 
-1. **Abrir VS Code**.
-2. **Abrir la terminal integrada** (`Ctrl + `).
-3. **Clonar el repositorio con la rama específica**:
+1. **Clonar el repositorio con la rama específica**:
    ```sh
    git clone --single-branch --branch cleanArquitectureConsole https://github.com/danielmatt-dev/Clean-Arquitecture_Spring-Boot.git
    ```
-4. **Navegar al directorio del proyecto clonado**:
+2. **Navegar al directorio del proyecto clonado**:
    ```sh
    cd Clean-Arquitecture_Spring-Boot
    ```
